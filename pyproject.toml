@@ -1,0 +1,10 @@
+[project]
+name = "react-security-audit"
+version = "1.0.0"
+description = "Multi-agent security audit pipeline for React projects — Supervisor + Parallel + Loop patterns"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "claude-agent-sdk>=0.1.53",
+    "anyio>=4.0.0",
+]
