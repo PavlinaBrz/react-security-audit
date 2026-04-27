@@ -136,7 +136,7 @@ Pokud Supervisor vyhodnotí report jako nedostatečný, agent dostane zpětnou v
 
 ```bash
 # Naklonuj repozitář
-git clone https://github.com/TVUJ-USERNAME/react-security-audit.git
+git clone https://github.com/PavlinaBrz/react-security-audit.git
 cd react-security-audit
 
 # Vytvoř prostředí a nainstaluj závislosti
