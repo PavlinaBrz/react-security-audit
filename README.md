@@ -236,6 +236,4 @@ Projekt je záměrně v jednom souboru `main.py`. Každá orchestrace je jasně 
 - Report se uloží jako Markdown soubor do auditovaného projektu
 
 ## Autor
-
-Projekt pro kurz Vibe Coding / Agentic Engineering (robot_dreams, 2026).
-Lektor: Lukáš Kellerstein.
+Projekt pro kurz Vibe Coding
