@@ -219,7 +219,7 @@ react-security-audit/
 
 ## Proč jeden soubor?
 
-Projekt je záměrně v jednom souboru `main.py` — stejně jako lektorovy ukázky v kurzu. Každá orchestrace je jasně oddělená komentáři a sekcemi:
+Projekt je záměrně v jednom souboru `main.py`. Každá orchestrace je jasně oddělená komentáři a sekcemi:
 
 1. `run_parallel_scan()` — Parallel workflow
 2. `run_supervisor_review()` — Supervisor + Loop
